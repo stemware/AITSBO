@@ -1,4 +1,3 @@
-import binascii
 import base64
 import json
 def encryptDecrypt(text, key):
